@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word counter app</string>
+    <string name="EditText">TextEdit</string>
+    <string name="ButtonCount">Count</string>
+    <string name="TextView">Result</string>
+    <string name="textEdit">TextEdit</string>
+    <!-- Array for Spinner options -->
+    <string-array name="CountOptions">
+        <item>Words</item>
+        <item>Char</item>
+    </string-array>
+</resources>
